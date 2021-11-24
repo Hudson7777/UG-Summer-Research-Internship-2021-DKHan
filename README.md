@@ -5,3 +5,6 @@ However, due to the absence of safety guarantee, the corresponding application i
 Motivated by the need of simultaneously enhancing the control performance and safety guarantee, our project aims to compare reinforcement learning controller and model predictive controller horizontally and further validate the reinforcement learning performance under the guarantee
 of control barrier function.
 Simulation results demonstrate the performance of the aforementioned method.
+There are several trained agents for you to use.
+The final report could be seen in Xu_Haoran_Final_Report.pdf
+The final poster could be seen in Poster_XuHaoran.pptx
